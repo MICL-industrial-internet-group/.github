@@ -4,7 +4,7 @@
 
 We current focus on 
 
-- Python interpreter encrypyted
+- Python interpreter encryption
 - Database optimization
 - Procedure recommendation
 
