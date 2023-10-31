@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-**MICL Industrial Internet Group** is a research group under the management of MICL (Microarchitecture and Integrated Circuit Laboratory) in USTB (University of Science and Technology Beijing).
+**MICL Industrial Internet Group** is a research group under the instruction of [Proj. He](https://scholar.google.com/citations?user=1i54GNwAAAAJ&hl=en&oi=ao) and the management of MICL (Microarchitecture and Integrated Circuit Laboratory) in [USTB](https://www.ustb.edu.cn/) (University of Science and Technology Beijing).
 
 We current focus on 
 
@@ -19,3 +19,5 @@ We current focus on
 🍿 Fun facts - what does your team eat for breakfast?
 🧙 Remember, you can do mighty things with the power of [Markdown](https://docs.github.com/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax)
 -->
+
+`miig.micl@163.com`
